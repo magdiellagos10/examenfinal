@@ -23,6 +23,7 @@ body{
 	background-position: center;
 	background-repeat: no-repeat;
 	padding: 130px 0;
+	text-align: center;
 }
 #hero h2{
 	color: #FFFFFF;
@@ -55,6 +56,10 @@ body{
 	text-align: center;
 	text-transform: uppercase;
 	color: #000;
+	text-align: center;
+}
+#works{
+	text-align: center;
 }
 #services{
 	background: #f2f2f2;
@@ -89,6 +94,11 @@ background-position: top;
 	border-top-right-radius: 20px;
 	border-bottom-left-radius: 20px;
 }
+
+.icon{
+	width: 120;
+}
+
 
 
 
