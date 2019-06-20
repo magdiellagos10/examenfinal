@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700&display=swap');
+body{
+	
+}
+.title{
+	color: #000;
+	font-family: 'Roboto Black';
+	font-size: 44px;
+	color: #000;
+	text-align: center;
+}
+.subtitle{
+	text-align: center;
+	font-size: 40px;
+	color: #000;
+	font-family: 'Roboto Black';
+	font-size: 14px;
+	color: #000
+}
+#hero{
+	background-image: url( "../img/bg-1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 130px 0;
+}
+#hero h2{
+	color: #FFFFFF;
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 30px;
+	text-align: center;
+}
+#hero h5{
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: 300;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.btn-hero{
+	padding: 15px 35px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 12px;
+	border-radius: 0;
+	border: 0;
+}
+.btn-hero:hover{
+	background-color: #000;
+	color: #fff;
+}
+#works h3{
+	font-size: 14px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #000;
+}
+#services{
+	background: #f2f2f2;
+}
+#testimonial{
+	background: #f2f2f2;
+	padding: 120 0;
+background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	position: relative;		
+}
+#sec-blog h1{
+	text-align: center;
+}
+
+#sec-blog h6{
+	text-align: center;
+}
+
+.icon{
+	width: 40px;
+	height: 300px;
+	line-height: 40px;
+	background-color: #28d1a2;
+	color: #fff;
+	border: 1px solid #21AF87;
+	display: block;
+	text-align: center;
+	margin-bottom: 20xp;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+
+
+
+
+
+footer{
+	background-color: #262626;
+	color: #ffffff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+
